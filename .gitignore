@@ -1,0 +1,7 @@
+env/
+env_qt/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.vscode/
